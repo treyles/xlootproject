@@ -2,6 +2,8 @@
 
 Community-operated website for the xLoot project.
 
+![alt text](xloot.png)
+
 ## Contribute
 
 - Update FAQ in `/pages/faq.tsx`

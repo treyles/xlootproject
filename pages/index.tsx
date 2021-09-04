@@ -53,8 +53,8 @@ export default function Home(): ReactElement {
           {/* CTA Description */}
           <p>
             Extension Loot is second set of Loot, a randomized adventurer gear generated and stored on chain.
-            It uses the same algo as Loot, Extension Loot is just more Loot. Stats, images, and other functionality are intentionally
-            omitted for others to interpret. Feel free to use Exension Loot in any way you want.
+            Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free
+            to use Exension Loot in any way you want.
           </p>
         </div>
 
